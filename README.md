@@ -2,9 +2,8 @@
 
 Merhaba, Airline302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte 302 sınıfı ile yazdık. Turkish Airlines ve Pegasus uygulamasından esinlenerek oluşturduğumuz bu projede uçak bileti arama ve satın alma işlemi yapılmaktadır. Asli amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
-PROJE HAKKINDA TEKNİK BİLGİLER
-•Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
-
+PROJE HAKKINDA TEKNİK BİLGİLER<br>
+•Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı. <br>
 •Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
 •Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 •Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
