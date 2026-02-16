@@ -4,6 +4,7 @@ Merhaba, Airline302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptı�
 
 PROJE HAKKINDA TEKNİK BİLGİLER
 •Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
+
 •Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
 •Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 •Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
